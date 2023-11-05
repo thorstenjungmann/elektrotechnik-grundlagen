@@ -1,0 +1,13 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hintergrund -->
+  <rect width="100%" height="100%" fill="lightblue" />
+
+  <!-- Kreis -->
+  <circle cx="100" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+
+  <!-- Rechteck -->
+  <rect x="50" y="100" width="100" height="50" stroke="blue" stroke-width="3" fill="red"/>
+  
+  <!-- Text -->
+  <text x="50" y="150" font-family="Verdana" font-size="20" fill="navy">Hallo SVG</text>
+</svg>
